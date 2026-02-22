@@ -1,7 +1,7 @@
 # Leonardo Camilleri
 
-MSc Quantitative Finance – NYU Stern (NYU Shanghai)  
-BSc Computer Science & Artificial Intelligence – IE University  
+Incoming MSc Quantitative Finance – NYU Stern (NYU Shanghai) class of 2027  
+BSc Computer Science & Artificial Intelligence – IE University  class of 2026
 
 Independent Quantitative Researcher | Reinforcement Learning | Systematic Strategies  
 
